@@ -1,5 +1,9 @@
 .place__website {
+  display: flex;
+  flex-direction: column;
   align-self: end;
+  padding: 0;
+  margin: 0;
 }
 
 @media screen and (max-width: 767px) {
