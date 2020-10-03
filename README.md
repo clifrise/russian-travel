@@ -11,4 +11,6 @@
 5. Контроль версий в Git
 6. Деплой страницы на Github Pages
 
+Ссылка на проект: https://clifrise.github.io/russian-travel/index.html
+
 Сделал студент курса Руслан Белый в «Яндекс Практикуме».
